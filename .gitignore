@@ -1,0 +1,16 @@
+.exercism
+HELP.md
+README.md
+*_test.py
+temp_*
+.env
+venv/
+*egg-info/
+.tox/
+coverage_html_report/
+.coverage
+coverage.xml
+build/
+dist/
+__pycache__/
+.vscode/
