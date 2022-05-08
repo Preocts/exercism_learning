@@ -1,6 +1,5 @@
 .exercism
-HELP.md
-README.md
+*.md
 *_test.py
 temp_*
 .env
